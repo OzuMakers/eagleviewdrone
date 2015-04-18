@@ -1,0 +1,1 @@
+This is a dream-phase project. Please see http://birkankolcu.com/eagle-view-drone/ for details.
